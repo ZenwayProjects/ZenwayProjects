@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZenwayProjects
 - 👀 I’m interested in Web Development | Web Design 
-- 🌱 I’m currently learning & using | Laravel | React.js | Node.js | Express.js | SQL |
+- 🌱 I’m currently learning & using | Java | React.js | Node.js | Express.js | SQL |
 - 💞️ I’m looking to collaborate on projects that help me improve my skills
 - 📫 How to reach me -> send me a email: thezenway15@gmail.com
 
