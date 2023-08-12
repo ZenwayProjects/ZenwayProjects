@@ -10,4 +10,10 @@
 </p>
 
 ## Languages and Tools:
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
+
+[![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
+
+[![SpringSecurity](https://img.shields.io/badge/Springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
+
 
