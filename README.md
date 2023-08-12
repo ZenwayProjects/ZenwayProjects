@@ -10,7 +10,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)]
-[![Node.JS](https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)]
-[![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)]
-</br>
+[![JavaScript]([https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000]
+
