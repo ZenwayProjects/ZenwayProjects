@@ -9,6 +9,5 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/da-vinci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/da-vinci/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
+## Languages and Tools:
 
