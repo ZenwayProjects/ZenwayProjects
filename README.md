@@ -1,8 +1,9 @@
-Hi there👋, 
+Hi everyone👋, 
 I'm Ángel David Oliveros FullStack Developer and here you'll find some projects I've built</h3>
 
 
 - I'm a Software Engineer based in Colombia, I've been working as a Freelance developer both frontend and backend, I also have knowledge in databases in general. My strongests area are backend development with **Spring Boot** and frontend development with **React.js**
+  
 - I’m currently working as Intern on [Universidad Surcolombiana](https://www.usco.edu.co/es/).
 
 
