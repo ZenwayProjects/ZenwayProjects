@@ -10,5 +10,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![JavaScript]([https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000]
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
 
