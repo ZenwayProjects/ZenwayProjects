@@ -39,7 +39,7 @@ I'm Ángel David Oliveros FullStack Developer and here you'll find some projects
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Connect with me:
-![Email](https://img.shields.io/badge/Zenway@gmail.com-my_personal_mail-FF9FE5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)(mailto:Zenway15@gmail.com)
+## Contact me:
+[![Email](https://img.shields.io/badge/thezenway15@gmail.com-my_bussiness_mail-FF9FE5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:thezenway15@gmail.com)
 
 
