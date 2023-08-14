@@ -15,11 +15,12 @@ I'm Ángel David Oliveros FullStack Developer and here you'll find some projects
 [![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
 [![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
+[![Nodejs](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
 
 ### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
 [![Reactjs](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
-[![Nodejs](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
+
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
