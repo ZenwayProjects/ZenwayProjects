@@ -20,7 +20,7 @@ I'm Ángel David Oliveros FullStack Developer and here you'll find some projects
 ### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
 [![Reactjs](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/ZenwayProjects/ZenwayProjects)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/ZenwayProjects/ZenwayProjects)
